@@ -1,0 +1,10 @@
+{
+    "name": "Final Fantasy Tactics",
+    "description": "Final Fantasy Tactics War of the Lions sounds",
+    "author": "atomfist",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": false,
+    "ignore": [],
+    "mappings": {}
+  }
